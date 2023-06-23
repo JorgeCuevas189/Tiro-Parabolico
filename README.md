@@ -26,7 +26,7 @@ Eje z o altura maxima= 10
 Resultado= 45.912 u y la represntación grafica del tiro 
 ![image](https://github.com/JorgeCuevas189/Tiro-Parabolico/assets/79385196/d19764b5-39c9-4e59-a4eb-21772f165222)
 
-#Ejecución dirección del archivo, IDE python parabolico.py (al utilizar matploit 3D se requieren las descargas de librerías extras, para una ejecución rapida sin instalación, ejecutar el codigo en google colab que permitirá iniciar el programa sin ningún problema)
+#Ejecución dirección del archivo, IDE python parabolico.py (al utilizar matploit 3D se requieren las descargas de librerías extras, para una ejecución rapida sin instalación, ejecutar el codigo en google colab que permitirá iniciar el programa sin ningún problema) https://colab.research.google.com/
 
 #Autor Jorge Armando García Cuevas
 
